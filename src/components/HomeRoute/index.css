@@ -1,0 +1,26 @@
+.home-bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 90vh;
+  padding: 60px 40px;
+  color: #f8fafc;
+}
+.home-text-container {
+  width: 500px;
+}
+
+.heading {
+  font-size: 50px;
+}
+.para {
+  line-break: 1;
+}
+
+.jobs-button {
+  color: #f8fafc;
+  background-color: #6366f1;
+  border: none;
+  border-radius: 5px;
+  padding: 12px 20px;
+  margin-top: 30px;
+}
